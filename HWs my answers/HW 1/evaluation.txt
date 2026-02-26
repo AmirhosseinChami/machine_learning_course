@@ -1,0 +1,5 @@
+Accuracy: 0.835
+Precision for class 1: 0.951
+Recall for class 1: 0.975
+Precision for class 5: 0.875
+Recall for class 5: 0.778
